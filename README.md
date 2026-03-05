@@ -1,6 +1,4 @@
-**BookFlow** is a sophisticated, full-featured online bookstore designed to provide a seamless and cinematic shopping experience. Built with **React 19** and **TypeScript**, the platform integrates real-time data management via **Firebase**, secure payment processing, and advanced GSAP-driven interactivity.
-
-**[LIVE DEMO](https://dianakerekesha.github.io/BookFlow/)**
+**BookCatalog** is a sophisticated, full-featured online bookstore designed to provide a seamless and cinematic shopping experience. Built with **React 19** and **TypeScript**, the platform integrates real-time data management via **Firebase**, secure payment processing, and advanced GSAP-driven interactivity.
 
 ---
 
@@ -28,26 +26,12 @@ This ecosystem represents a modern approach to e-commerce, featuring high-end en
 
 ##  Technical Stack
 
-| Category | Technology |
-| :--- | :--- |
 | **Frontend** | React 19, TypeScript 5.9, Vite 7 |
 | **Styling** | Tailwind CSS 4, shadcn/ui, Radix UI |
 | **State Management** | React Context API, TanStack React Query 5 |
 | **Backend & Data** | Firebase (Auth, Firestore, Cloud Functions) |
 | **Payments** | Stripe Elements, LiqPay |
 | **Infrastructure** | ImageKit CDN, GitHub Actions, Husky + lint-staged |
-
----
-
-##  The Engineering Team
-
-**BookFlow** was developed through the collaborative efforts of:
-
-1.  **Diana Kerekesha** — Full-stack Developer
-2.  **Artem Stadnik** — Full-stack Developer
-3.  **Artem Yurin** — Full-stack Developer
-4.  **Taras Demianiuk** — Full-stack Developer
-5.  **Alina Khvorostian** — Frontend Developer
 
 ---
 
